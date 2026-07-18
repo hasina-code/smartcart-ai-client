@@ -22,7 +22,7 @@ export default function Newsletter() {
           {/* Heading */}
 
           <h2 className="text-4xl font-bold text-white">
-            Subscribe to Our Newsletter
+            {/* Subscribe to Our Newsletter */}
           </h2>
 
           <p className="mx-auto mt-5 max-w-2xl text-lg text-cyan-100">
