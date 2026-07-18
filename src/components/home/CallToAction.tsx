@@ -50,7 +50,7 @@ export default function CallToAction() {
               href="/register"
               className="rounded-2xl border-2 border-slate-700 bg-slate-900 px-8 py-4 font-semibold text-white transition hover:border-cyan-500 hover:text-cyan-400"
             >
-              {/* Get Started Free */}
+              Get Started Free
             </Link>
           </div>
         </motion.div>
