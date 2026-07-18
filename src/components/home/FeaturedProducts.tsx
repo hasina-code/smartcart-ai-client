@@ -65,7 +65,7 @@ export default function FeaturedProducts() {
         </h2>
 
         <p className="mt-3 text-slate-600 dark:text-slate-400">
-          Explore our AI recommended top products.
+          {/* Explore our AI recommended top products. */}
         </p>
       </div>
 

@@ -107,7 +107,7 @@ export default function Categories() {
                 </h3>
 
                 <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">
-                  {/* Explore Products → */}
+                  Explore Products →
                 </p>
               </Link>
             </motion.div>

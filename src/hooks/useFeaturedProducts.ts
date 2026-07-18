@@ -23,7 +23,7 @@ const useFeaturedProducts = () => {
     queryFn: async (): Promise<Product[]> => {
       const { data } = await axiosInstance.get("/products/featured");
 
-      return data.data;
+      // return data.data;
     },
   });
 };
