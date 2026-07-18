@@ -1,4 +1,5 @@
-import axiosInstance from "@/app/lib/axios";
+
+import axiosInstance from "@/lib/axios";
 import { useQuery } from "@tanstack/react-query";
 
 export interface Product {
