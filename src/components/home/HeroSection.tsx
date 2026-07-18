@@ -115,7 +115,7 @@ export default function HeroSection() {
             className="absolute left-0 top-6 rounded-2xl border border-slate-200 bg-white p-4 shadow-xl dark:border-slate-700 dark:bg-slate-900"
           >
             <p className="text-xs text-slate-500 dark:text-slate-400">
-              AI Recommendation
+              {/* AI Recommendation */}
             </p>
 
             <h3 className="mt-1 text-lg font-bold text-slate-900 dark:text-white">
