@@ -12,7 +12,7 @@ import {
   FaFacebookF,
   FaGithub,
   FaInstagram,
-  // FaLinkedinIn,
+  FaLinkedinIn,
 } from "react-icons/fa";
 
 export default function Footer() {
