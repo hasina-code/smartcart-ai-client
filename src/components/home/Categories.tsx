@@ -73,7 +73,7 @@ export default function Categories() {
         </h2>
 
         <p className="mt-3 text-slate-600 dark:text-slate-400">
-          Browse products by your favorite category.
+          {/* Browse products by your favorite category. */}
         </p>
       </div>
 
