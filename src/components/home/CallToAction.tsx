@@ -6,9 +6,9 @@ import { ArrowRight, Sparkles } from "lucide-react";
 
 export default function CallToAction() {
   return (
-    // ডার্ক গ্রেডিয়েন্ট ব্যবহার করা হয়েছে যাতে উপরের নিউজলেটার সেকশন থেকে আলাদা দেখায়
+  
     <section className="relative py-24 bg-white dark:bg-slate-950 overflow-hidden transition-colors duration-300">
-      {/* ব্যাকগ্রাউন্ডে একটি মৃদু গ্লো ইফেক্ট */}
+     
       <div className="absolute inset-0 bg-gradient-to-b from-cyan-900/20 to-transparent"></div>
       
       <div className="relative mx-auto max-w-5xl px-5 text-center">
@@ -50,7 +50,7 @@ export default function CallToAction() {
               href="/register"
               className="rounded-2xl border-2 border-slate-700 bg-slate-900 px-8 py-4 font-semibold text-white transition hover:border-cyan-500 hover:text-cyan-400"
             >
-              Get Started Free
+              {/* Get Started Free */}
             </Link>
           </div>
         </motion.div>
