@@ -79,9 +79,9 @@ router.refresh();
 
       const { data } = await axiosInstance.post(
         "/auth/login",
-        {
-          email: "demo@smartcart-ai.com",
+        { email: "demo@smartcart-ai.com",
           password: "Demo123@",
+         
         }
       );
 
